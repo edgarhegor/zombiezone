@@ -1,9 +1,9 @@
-🧟  #Zombie Zone
+#🧟 Zombie Zone
 
 ###Zombie Zone é um jogo 2D desenvolvido em Python utilizando a biblioteca Pygame, criado como trabalho acadêmico para a faculdade.
 O jogo consiste em sobreviver ao ataque de zumbis pelo maior tempo possível, acumulando pontos ao eliminar inimigos.
 
-🎮 ##Sobre o Jogo
+#🎮 Sobre o Jogo
 
 No Zombie Zone, o jogador controla um personagem que deve derrotar zumbis enquanto evita ser atingido.
 O jogo possui:
