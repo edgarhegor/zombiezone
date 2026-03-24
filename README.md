@@ -35,3 +35,6 @@ Colisões
 Game loop
 Pyenv
 
+🎮 Como jogar
+
+Baixe o arquivo e extraia, a pasta assets deve ficar na mesma pasta que o executável do jogo
